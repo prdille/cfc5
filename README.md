@@ -11,12 +11,9 @@ FX -- Foreign Exchange
   
 WYDNA
 =====
-Kantbot
--------
-EdBurg
-------
-Logo
-----
+  - Kantbot
+  - EdBurg
+  - Logo
 PlastPills
 ==========
 
