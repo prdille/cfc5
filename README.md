@@ -3,11 +3,6 @@ cfc5
 
 Source of Truth
 
-FX -- Foreign Exchange
-----------------
-  Dan Bessner
-  - https://fx.substack.com/
-    - https://fx.substack.com/p/the-end-of-mass-politics?s-r
   
 WYDNA
 -----
@@ -28,21 +23,28 @@ PlastPills
   - Victor Bruzzone
   - Erik
 
-New Atlantis
-------------
-  - [Main Site](https://www.thenewatlantis.com/)
-
 Theory in Practice
 ------------------
   - [Patreon](https://www.patreon.com/theoryinpractice/posts)
 ------------------
   - Mike Watson
 
+FX -- Foreign Exchange
+----------------
+  Dan Bessner
+  - https://fx.substack.com/
+    - https://fx.substack.com/p/the-end-of-mass-politics?s-r
+
+New Atlantis
+------------
+  - [Main Site](https://www.thenewatlantis.com/)
+
 Progressive International
 -------------------------
 
 The Intercept
 -------------
+  - (https://theintercept.com/)
 
 Jacobin
 -------
