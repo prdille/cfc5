@@ -24,7 +24,7 @@ PlastPills
 
 New Atlantis
 ------------
-  -[site](https://www.thenewatlantis.com/)
+  - [Main Site](https://www.thenewatlantis.com/)
 
 Theory in Practice
 ------------------
