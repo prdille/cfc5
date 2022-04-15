@@ -2,9 +2,8 @@
 
 
 Source of Truth
----------------
 
-foreign-exchange
+FX -- Foreign Exchange
 ================
   Dan Bessner
   - https://fx.substack.com/
@@ -12,7 +11,12 @@ foreign-exchange
   
 WYDNA
 =====
-
+Kantbot
+-------
+EdBurg
+------
+Logo
+----
 PlastPills
 ==========
 
