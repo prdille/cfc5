@@ -11,19 +11,22 @@ FX -- Foreign Exchange
   
 WYDNA
 -----
+  - [YouTube Channel](https://www.youtube.com/c/wydnagroup)
+  - [Patreon](https://www.patreon.com/wydna/posts)
+----------
   - Kantbot
   - EdBurg
   - Logo
 
 PlastPills
 ----------
+  - [YouTube Channel](https://www.youtube.com/c/PlasticPills)
+  - [Patreon](https://www.patreon.com/plasticpills/posts)
+----------
   - Dylan DeJong
   - Matt MacManus
   - Victor Bruzzone
   - Erik
-----------
-  - [YouTube Channel](https://www.youtube.com/c/PlasticPills)
-  - [Patreon](https://www.patreon.com/plasticpills/posts)
 
 New Atlantis
 ------------
@@ -31,9 +34,9 @@ New Atlantis
 
 Theory in Practice
 ------------------
-  - Mike Watson
-  -------------
   - [Patreon](https://www.patreon.com/theoryinpractice/posts)
+------------------
+  - Mike Watson
 
 Progressive International
 -------------------------
