@@ -29,7 +29,9 @@ New Atlantis
 Theory in Practice
 ------------------
   - Mike Watson
-  -- [Patreon](https://www.patreon.com/theoryinpractice/posts)
+  -------------
+  - [Patreon](https://www.patreon.com/theoryinpractice/posts)
+
 Progressive International
 -------------------------
 
