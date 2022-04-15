@@ -21,6 +21,9 @@ PlastPills
   - Matt MacManus
   - Victor Bruzzone
   - Erik
+----------
+  - [YouTube Channel](https://www.youtube.com/c/PlasticPills)
+  - [Patreon](https://www.patreon.com/plasticpills/posts)
 
 New Atlantis
 ------------
