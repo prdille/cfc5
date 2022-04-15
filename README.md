@@ -1,17 +1,6 @@
 cfc5
 ====
-
 Source of Truth
-
-  
-WYDNA
------
-  - [YouTube Channel](https://www.youtube.com/c/wydnagroup)
-  - [Patreon](https://www.patreon.com/wydna/posts)
-----------
-  - Kantbot
-  - EdBurg
-  - Logo
 
 PlastPills
 ----------
@@ -22,6 +11,15 @@ PlastPills
   - Matt MacManus
   - Victor Bruzzone
   - Erik
+
+WYDNA
+-----
+  - [YouTube Channel](https://www.youtube.com/c/wydnagroup)
+  - [Patreon](https://www.patreon.com/wydna/posts)
+----------
+  - Kantbot
+  - EdBurg
+  - Logo
 
 Theory in Practice
 ------------------
@@ -41,17 +39,19 @@ New Atlantis
 
 Progressive International
 -------------------------
+  - [Main Site](https://progressive.international/)
 
 The Intercept
 -------------
-  - (https://theintercept.com/)
+  - [The Intercept](https://theintercept.com/)
 
 Jacobin
 -------
+  - [Jacobin](https://jacobinmag.com/)
 
 Current Affairs
 ---------------
-
+  - [Current Affairs](https://www.currentaffairs.org/)
 
 
 
