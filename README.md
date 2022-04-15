@@ -17,19 +17,31 @@ WYDNA
 
 PlastPills
 ==========
+  - Dylan DeJong
+  - Matt MacManus
+  - Victor Bruzzone
+  - Erik
 
 New Atlantis
 ============
 
-Mike Watson
-===========
-  Theory in Practice
+Theory in Practice
+==================
+  - Mike Watson
 
 Progressive International
 =========================
 
 The Intercept
 =============
+
+Jacobin
+=======
+
+Current Affairs
+===============
+
+
 
 
 
