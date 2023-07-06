@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28c53de3-ddb1-40d7-b04a-d7f3f701bd11</dc:identifier>
+        <dc:title>Collected Writings of Rousseau, Volume 6 : Julie, or the New Heloise : Letters of Two Lovers Who Live in a Small Town at the Foot of the Alps</dc:title>
+        <dc:creator opf:file-as="Rousseau, Jean-Jacques(Author)" opf:role="aut">Rousseau, Jean-Jacques(Author)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-06T18:26:23+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Rousseau, Jean-Jacques(Author)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-07-06T02:14:34.996810+00:00"/>
+        <meta name="calibre:title_sort" content="Collected Writings of Rousseau, Volume 6 : Julie, or the New Heloise : Letters of Two Lovers Who Live in a Small Town at the Foot of the Alps"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

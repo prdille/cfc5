@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee64e491-63b2-46ab-9ee8-76f1d2ce5caf</dc:identifier>
+        <dc:title>Socialism with Chinese Characteristics</dc:title>
+        <dc:creator opf:file-as="0013158" opf:role="aut">0013158</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-26T13:38:51+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;0013158&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-07-06T02:10:46.294564+00:00"/>
+        <meta name="calibre:title_sort" content="Socialism with Chinese Characteristics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
